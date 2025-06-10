@@ -1,0 +1,7 @@
+gradio
+requests
+pandas
+smolagents[toolkit,openai,transformers]
+huggingface_hub
+torch
+transformers
